@@ -1,0 +1,16 @@
+.cards__items {
+  margin-bottom: 24px;
+}
+
+.cards__item {
+  display: flex;
+  flex: 1;
+  margin: 0 1rem;
+  border-radius: 10px;
+}
+  
+.discription {
+  color: #252e48;
+  font-size: 18px;
+  line-height: 24px;
+}
