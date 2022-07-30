@@ -1,13 +1,14 @@
 import React from 'react'
 import '../../App.css'
-import ProjectCard from '../ProjectCard'
+import Cards from '../Cards';
+import Footer from '../Footer';
 
 function Projects() {
   return (
     <>
-      <ul>
-        <ProjectCard />
-      </ul>
+        <Cards />
+        <Footer />
+
     </>
   )
 }
